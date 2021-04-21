@@ -7,4 +7,3 @@ streamlit
 tensorflow 
 cython==0.28.5
 keras==2.4.3
-MySQL_python==1.2.2
